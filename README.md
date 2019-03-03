@@ -11,7 +11,9 @@ keras 2.2.4, tensorflow 1.12, python 2.7.12, numpy 1.15.0, matplotlib 2.2.3, pan
 ```
 python LSTM_practice.py
 ```
+If everything is fine, it shoud look like this
 
+![result](https://github.com/yoyotv/LSTM-predict-Google-Stock-Price/blob/master/result.png)
 ### Scheme 
 Use the information of yesterday to predict next day
 
