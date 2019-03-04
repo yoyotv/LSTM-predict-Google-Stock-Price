@@ -36,3 +36,11 @@ https://www.kaggle.com/akram24/google-stock-price-test
 
 https://keras.io/layers/recurrent/
 
+https://medium.com/@daniel820710/%E5%88%A9%E7%94%A8keras%E5%BB%BA%E6%A7%8Blstm%E6%A8%A1%E5%9E%8B-%E4%BB%A5stock-prediction-%E7%82%BA%E4%BE%8B-1-67456e0a0b
+
+https://stackoverflow.com/questions/38714959/understanding-keras-lstms
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
