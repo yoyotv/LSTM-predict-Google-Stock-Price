@@ -31,7 +31,7 @@ y_train = np.reshape(y_train, (y_train.shape[0],y_train.shape[1],1))
 
 # Initialize the LSTM
 input1=Input(shape=(20,1))
-lstm=LSTM(50,return_sequences=True)(input1)
+lstm=LSTM(1,return_sequences=True)(input1)
 dropout=Dropout(0.2)(lstm)
 final=Dense(1)(dropout)
 model=Model(input=input1,output=final)
