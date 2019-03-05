@@ -13,7 +13,7 @@ python LSTM_practice.py
 ```
 If everything is fine, it shoud look like this
 
-![result](https://github.com/yoyotv/LSTM-predict-Google-Stock-Price/blob/master/result.png)
+![result](https://github.com/yoyotv/LSTM-predict-Google-Stock-Price/blob/master/picture/lstm_demo.png)
 ### Scheme 
 Use the information of yesterday to predict next day
 
