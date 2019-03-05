@@ -15,10 +15,12 @@ If everything is fine, it shoud look like this
 
 ![result](https://github.com/yoyotv/LSTM-predict-Google-Stock-Price/blob/master/picture/lstm_demo.png)
 ### Scheme 
-Use the information of yesterday to predict next day
+
+Use the information of past 20 days to predict next day
 
 20 days as a set
 
+Case: many to one
 
 ### Keras LSTM paramater
 
