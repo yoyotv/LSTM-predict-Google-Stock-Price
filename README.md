@@ -24,9 +24,9 @@ Use the information of yesterday to predict next day
 
 set: 1258-20-1
 
-timestep: 20
+timestep: 20     (red box)
 
-indicator: 1
+indicator: 1     (feature number)
 
 ### References
 
