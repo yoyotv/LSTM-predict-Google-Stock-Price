@@ -26,7 +26,7 @@ for i in range(0, 1258-20-1):  #previous 1 day
   y_train.append(training_set_scaled[i:i+20,0])
 
 X_train, y_train = np.array(X_train), np.array(y_train) 
-X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))     #previous 1 day as input         
+X_train = np.reshape(X_train, (X_train.shape[0],X_train.shape[1],1))     #previous 20 day as input , number of feature = 1         
 y_train = np.reshape(y_train, (y_train.shape[0],y_train.shape[1],1))
 
 # Initialize the LSTM
