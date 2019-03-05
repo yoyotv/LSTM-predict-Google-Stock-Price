@@ -28,6 +28,8 @@ timestep: 20     (red box)
 
 indicator: 1     (feature number)
 
+![demo](https://github.com/yoyotv/LSTM-predict-Google-Stock-Price/blob/master/picture/lstm_variety.jpeg)
+
 ### References
 
 https://www.kaggle.com/akram24/google-stock-price-train
